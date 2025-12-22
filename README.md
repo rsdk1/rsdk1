@@ -37,9 +37,9 @@
 
 🔭 Currently working on **[playwright-framework](https://github.com/rsdk1/playwright-framework.git)**
 
-🌱 Currently learning **Artificial Intelligence**
+🌱 Currently learning:**Artificial Intelligence**
 
-💬 Ask me about **Test Automation/Playwright/Javascript**
+💬 Ask me about: **Test Automation/Playwright/Javascript**
 
 🎓 Certifications: **ISTQB Foundation Level certified**
 
@@ -219,6 +219,7 @@
 |:-------------:|:---------:|
 | 📅 3+ Years on GitHub | ✅ Unlocked |
 | 💻 JavaScript Expert | ✅ Unlocked |
+| 💻 Playwright Automation Expert | ✅ Unlocked |
 
 </div>
 
