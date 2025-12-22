@@ -35,7 +35,7 @@
 
 💼 **1+ Years in Manual Testing**
 
-🔭 Currently working on **[rsdk1](https://github.com/rsdk1/rsdk1)**
+🔭 Currently working on **[playwright-framework](https://github.com/rsdk1/playwright-framework.git)**
 
 🌱 Currently learning **Artificial Intelligence**
 
