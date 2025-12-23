@@ -3,11 +3,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Suma%20D.K&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=QA%20Automation%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=RajaSuma%20D.K&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=QA%20Automation%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/rsdk1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Improving%20test%20automation%20with%20AI-driven%20insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Improving%20Test%20Automation%20with%20AI-Driven%20Insights" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
@@ -45,7 +45,7 @@
 
 ⚡ Fun fact: **My tests run faster than my coffee cools ☕**
 
-📦 **11** repositories | 👥 **1** followers
+📦 **11** repositories | 👥 **10M** followers
 
 <br clear="right"/>
 
@@ -238,7 +238,7 @@
 <img src="https://img.shields.io/badge/📦_Repositories-11-green?style=for-the-badge" alt="Repos"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/👥_Followers-1-purple?style=for-the-badge" alt="Followers"/>
+<img src="https://img.shields.io/badge/👥_Followers-10M-purple?style=for-the-badge" alt="Followers"/>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/📅_Years_Active-4+-orange?style=for-the-badge" alt="Years"/>
