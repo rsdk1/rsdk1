@@ -41,7 +41,7 @@
 
 💬 Ask me about: **Test Automation/Playwright/Javascript**
 
-🎓 Certifications: **ISTQB Foundation Level certified**
+🎓 Certifications: **ISTQB Foundation Level | Postman API fundamentals student Expert | Certified Professional Coder (CPC) | Artificial Intelligence Workshop**
 
 ⚡ Fun fact: **My tests run faster than my coffee cools ☕**
 
@@ -136,12 +136,11 @@
 
 <div align="center">
 
-<a href="https://github.com/rsdk1/rsdk1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rsdk1&repo=rsdk1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="rsdk1"/></a>
-<a href="https://github.com/rsdk1/ai-playwright-integration"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rsdk1&repo=ai-playwright-integration&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="ai-playwright-integration"/></a>
+
 <a href="https://github.com/rsdk1/playwright-framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rsdk1&repo=playwright-framework&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="playwright-framework"/></a>
-<a href="https://github.com/rsdk1/playwright-javaScript-automation-practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rsdk1&repo=playwright-javaScript-automation-practice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="playwright-javaScript-automation-practice"/></a>
-<a href="https://github.com/rsdk1/medius-assignment-automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rsdk1&repo=medius-assignment-automation&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="medius-assignment-automation"/></a>
-<a href="https://github.com/rsdk1/kotlin-practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rsdk1&repo=kotlin-practice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="kotlin-practice"/></a>
+<a href="https://github.com/rsdk1/playwright-javaScript-automation-practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rsdk1&repo=playwright-javaScript-automation practice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="playwright-javaScript-automation-practice"/></a>
+<a href="https://github.com/rsdk1/ai-playwright-integration.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rsdk1&repo=ai-playwright-integration&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="ai-playwright-integration"/></a>
+<a href="https://github.com/rsdk1/javascript-training.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rsdk1&repo=javascript-training&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="javascript-training"/></a>
 
 </div>
 
