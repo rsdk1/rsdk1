@@ -136,18 +136,27 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="30" height="30" /> Featured Projects
 
 <div align="center">
 
+<a href="https://github.com/rsdk1/playwright-framework">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rsdk1&repo=playwright-framework&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" />
+</a>
 
-<a href="https://github.com/rsdk1/playwright-framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rsdk1&repo=playwright-framework&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="playwright-framework"/></a>
-<a href="https://github.com/rsdk1/playwright-javaScript-automation-practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rsdk1&repo=playwright-javaScript-automation practice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="playwright-javaScript-automation-practice"/></a>
-<a href="https://github.com/rsdk1/ai-playwright-integration.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rsdk1&repo=ai-playwright-integration&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="ai-playwright-integration"/></a>
-<a href="https://github.com/rsdk1/javascript-training.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rsdk1&repo=javascript-training&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="javascript-training"/></a>
+<a href="https://github.com/rsdk1/playwright-javaScript-automation-practice">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rsdk1&repo=playwright-javaScript-automation-practice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/rsdk1/ai-playwright-integration">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rsdk1&repo=ai-playwright-integration&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/rsdk1/javascript-training">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rsdk1&repo=javascript-training&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" />
+</a>
 
 </div>
-
 ### 📊 Top Repositories
 
 <table>
