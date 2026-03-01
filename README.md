@@ -94,6 +94,8 @@
 <img src="https://img.shields.io/badge/Maestro-F7DF1E?style=for-the-badge&logo=Maestro&logoColor=black" alt="Maestro"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
 <img src="https://img.shields.io/badge/LambdaTest-0089CF?style=for-the-badge&logo=lambdatest&logoColor=white" alt="lambdatest"/>
+<img src="https://img.shields.io/badge/Smoke Testing-4169E1?style=for-the-badge&logo=Smoke Testingl&logoColor=white" alt="Smoke Testing"/>
+<img src="https://img.shields.io/badge/Sanity Testing-4479A1?style=for-the-badge&logo=Sanity Testing&logoColor=white" alt="Sanity Testing"/>
 </div>
 
 </td>
@@ -124,6 +126,7 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
+<img src="https://img.shields.io/badge/Cloudflare R2-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Cloudflare R2"/>
 </div>
 
 </td>
@@ -148,59 +151,66 @@
 ### 📊 Top Repositories
 
 <table>
-<thead>
-<tr>
-<th>🚀 Project</th>
-<th>📝 Description</th>
-<th>⭐ Stars</th>
-<th>🍴 Forks</th>
-<th>💻 Language</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://github.com/rsdk1/rsdk1"><b>rsdk1</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/rsdk1/ai-playwright-integration"><b>ai-playwright-integration</b></a></td>
-<td>The project demonstrates basic UI automation, clean code str...</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/rsdk1/playwright-framework"><b>playwright-framework</b></a></td>
-<td>End-to-end UI test automation framework using Playwright and...</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/rsdk1/playwright-javaScript-automation-practice"><b>playwright-javaScript-automation-practice</b></a></td>
-<td>Practical automation scripts built with Playwright and JavaS...</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/HTML-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/rsdk1/medius-assignment-automation"><b>medius-assignment-automation</b></a></td>
-<td>Automated Google Form submission using Playwright ,JavaScrip...</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/rsdk1/kotlin-practice"><b>kotlin-practice</b></a></td>
-<td>Kotlin Learning Space 🚀 Practice programs,exercises ,and pr...</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Kotlin-gray?style=flat-square" alt="language"/></td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>🚀 Project</th>
+      <th>📝 Description</th>
+      <th>⭐ Stars</th>
+      <th>🍴 Forks</th>
+      <th>💻 Language</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/rsdk1/rsdk1"><b>rsdk1</b></a></td>
+      <td>No description</td>
+      <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star"/></td>
+      <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git"/></td>
+      <td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square"/></td>
+    </tr>
+
+  <tr>
+      <td><a href="https://github.com/rsdk1/ai-playwright-integration"><b>ai-playwright-integration</b></a></td>
+      <td>Basic UI automation with clean code</td>
+      <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star"/></td>
+      <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git"/></td>
+      <td><img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square"/></td>
+    </tr>
+
+    
+  <tr>
+      <td><a href="https://github.com/rsdk1/playwright-framework"><b>playwright-framework</b></a></td>
+      <td>End-to-end UI test automation framework</td>
+      <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star"/></td>
+      <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git"/></td>
+      <td><img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square"/></td>
+    </tr>
+
+  <tr>
+      <td><a href="https://github.com/rsdk1/playwright-javaScript-automation-practice"><b>playwright-javaScript-automation-practice</b></a></td>
+      <td>Playwright practice scripts</td>
+      <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star"/></td>
+      <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git"/></td>
+      <td><img src="https://img.shields.io/badge/HTML-gray?style=flat-square"/></td>
+    </tr>
+
+  <tr>
+      <td><a href="https://github.com/rsdk1/medius-assignment-automation"><b>medius-assignment-automation</b></a></td>
+      <td>Google Form automation using Playwright</td>
+      <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star"/></td>
+      <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git"/></td>
+      <td><img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square"/></td>
+    </tr>
+
+  <tr>
+      <td><a href="https://github.com/rsdk1/kotlin-practice"><b>kotlin-practice</b></a></td>
+      <td>Kotlin learning & practice programs</td>
+      <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star"/></td>
+      <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git"/></td>
+      <td><img src="https://img.shields.io/badge/Kotlin-gray?style=flat-square"/></td>
+    </tr>
+
+  </tbody>
 </table>
 
 <p align="center">
