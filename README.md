@@ -33,7 +33,7 @@
 
 
 
-💼 **1+ Years in Manual Testing**
+💼 **1+ Years in QA Automation Engineer (Web & Mobile Testing Specialist)**
 
 🔭 Currently working on **[playwright-framework](https://github.com/rsdk1/playwright-framework.git)**
 
@@ -91,6 +91,7 @@
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright"/>
+<img src="https://img.shields.io/badge/Maestro-F7DF1E?style=for-the-badge&logo=Maestro&logoColor=black" alt="Maestro"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
 <img src="https://img.shields.io/badge/LambdaTest-0089CF?style=for-the-badge&logo=lambdatest&logoColor=white" alt="lambdatest"/>
 </div>
